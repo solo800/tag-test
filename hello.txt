@@ -1,5 +1,5 @@
 v0.1 I am a text file.
 I have a lot to say.
-Maybe today is the day?
+Maybe today is the day.
 
 Don't forget that this is THE day.
